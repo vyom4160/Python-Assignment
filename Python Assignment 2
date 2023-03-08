@@ -1,0 +1,5 @@
+list = input("Enter a list element separated by space ")
+list  = list.split()
+x = min(list)
+
+print(x)
